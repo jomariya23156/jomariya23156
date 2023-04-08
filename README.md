@@ -22,7 +22,6 @@
 <img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" width="100" height="100"/>&nbsp;&nbsp;&nbsp;
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="50" height="30"/>&nbsp;&nbsp;&nbsp;
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/W3Schools_logo.svg" width="50" height="30"/>&nbsp;&nbsp;&nbsp;
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Pornhub-logo.svg" width="100" height="100"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jomariya23156&show_icons=true&locale=en&layout=compact" alt="jomariya23156" /></p>
