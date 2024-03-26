@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jomariya23156&label=Profile%20views&color=0e75b6&style=flat" alt="jomariya23156" /> </p>
 
+- 🚀 I'm currently open to work abroad! Feel free to reach me if you have any job opportunities that would fit! :)
+
 - 🌱 I’m currently digging deep in **Deep Learning, Computer Vision, MLOps**
 
 - 📫 Reach me **jomariya.son@gmail.com**
