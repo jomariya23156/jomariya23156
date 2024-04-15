@@ -1,15 +1,15 @@
 <h1 align="center">It's me, JOM. 👋</h1>
-<h3 align="center">🖥 Part-time ML engineer | 😎 Full-time Memer</h3>
+<h3 align="center">📚 A passionate well-rounded ML Engineer focusing on MLOps and ML Solution Architect 📚</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jomariya23156&label=Profile%20views&color=0e75b6&style=flat" alt="jomariya23156" /> </p>
 
-- 🚀 I'm currently open to work abroad! Feel free to reach me if you have any job opportunities that would fit! :)
+- 🚀 Open to work: Seeking International Opportunities. Open to Relocation Globally. :)
 
-- 🌱 I’m currently digging deep in **Deep Learning, Computer Vision, MLOps**
+- 🌱 Expertise: **Computer Vision, Medical Imaging, ML System Design, ML Solution Architecture**
+
+- ⚡ Check this out! [jomariya23156.github.io](https://jomariya23156.github.io/)
 
 - 📫 Reach me **jomariya.son@gmail.com**
-
-- ⚡ Fun fact **I'm a memer, not a programmer. :V**
 
 <h3 align="left">In case you had a crush on me:</h3>
 <p align="left">
