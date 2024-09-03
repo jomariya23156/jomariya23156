@@ -1,13 +1,11 @@
 <h1 align="center">It's me, JOM. 👋</h1>
-<h3 align="center">📚 A passionate well-rounded ML Engineer focusing on MLOps and ML Solution Architecture 📚</h3>
+<h3 align="center">📚 A passionate full-stack ML Engineer focusing on MLOps and ML Solution Architecture 📚</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jomariya23156&label=Profile%20views&color=0e75b6&style=flat" alt="jomariya23156" /> </p>
 
-- 🚀 Open to work: Seeking International Opportunities. Open to Relocation Globally. :)
+- 🌱 Expertise: **Computer Vision, Medical Imaging, ML System Design, ML Deployment**
 
-- 🌱 Expertise: **Computer Vision, Medical Imaging, ML System Design, ML Solution Architecture**
-
-- ⚡ Check this out! [jomariya23156.github.io](https://jomariya23156.github.io/)
+- ⚡ Check out my portfolio! [jomariya23156.github.io](https://jomariya23156.github.io/)
 
 - 📫 Reach me **jomariya.son@gmail.com**
 
