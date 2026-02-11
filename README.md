@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jomariya23156&label=Profile%20views&color=0e75b6&style=flat" alt="jomariya23156" /> </p>
 
-- 💼 Working on [JobGlance](https://jobglance.app/) (a super cool extension to help your job hunt journey)
+- 💼 Working on **[JobGlance](https://jobglance.app/)** (a super cool extension to help your job hunt journey)
 
 - 🚀 On a mission to help people worldwide land their dream job faster easier
 
 - ⚡ Check out my portfolio! [jomariya23156.github.io](https://jomariya23156.github.io/)
 
-- 📫 Reach me **jomariya.son@gmail.com**
+- 📫 Reach me jomariya.son@gmail.com
 
 <h3 align="left">In case you had a crush on me:</h3>
 <p align="left">
