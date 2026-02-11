@@ -27,7 +27,3 @@
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a0/W3Schools_logo.svg" width="50" height="30"/>
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="30"/>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jomariya23156&show_icons=true&locale=en&layout=compact" alt="jomariya23156" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jomariya23156&show_icons=true&locale=en" alt="jomariya23156" /></p>
